@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=CHASANGGON%20)
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&theme=radical)
 
