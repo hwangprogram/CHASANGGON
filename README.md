@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:fbc2eb,100:a6c1ee&text=CHA%20SANG%20GON&fontColor=CC99FF&animation=blinking)
-🎓 능인중학교
-🎓 능인고등학교  
-🎓 경북대학교 전자공학부 전공, 컴퓨터학부 SW연계부전공  
-📖 삼성 청년 SW 아카데미(SSAFY) 11기
+🪖📚💻🎓🏫🎓 2013.02 능인중학교
+🎓 2016.02 능인고등학교  
+🎓 2024.02 경북대학교 전자공학부 전공, 컴퓨터학부 SW연계부전공  
+ 삼성 청년 SW 아카데미(SSAFY) 11기
 <div align="center"> 
   
 
