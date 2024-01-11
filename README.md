@@ -14,7 +14,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHASANGGON&count_bg=%236BF8FF&title_bg=%23FFBAEF&icon=google.svg&icon_color=%23E7E7E7&title=Thank+U%21&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
-👨‍🎓Education
+👨‍🎓Education  
 🔸 2013.02 능인중학교  
 🔸 2016.02 능인고등학교  
 🔸   2024.02 경북대학교 전자공학부 전공, 컴퓨터학부 SW연계부전공  
