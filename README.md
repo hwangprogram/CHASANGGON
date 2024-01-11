@@ -5,13 +5,10 @@
 🌈 2019.06 대한민국 육군 병장 만기 전역  
 👨‍🎓 2024.02 경북대학교 전자공학부 전공, 컴퓨터학부 SW연계부전공  
 💻 삼성 청년 SW 아카데미(SSAFY) 11기
-<div align="center"> 
-  
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
 
-
+<div align="center"> 
 
 <img src ="http://mazassumnida.wtf/api/generate_badge?boj=yg9618"/><img src="http://mazandi.herokuapp.com/api?handle=yg9618&theme=dark"/>
 
