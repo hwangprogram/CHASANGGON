@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-프론트엔드 개발자!
+백엔드 개발자!
 </div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
