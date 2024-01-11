@@ -2,7 +2,7 @@
 
 <div align="center"> 
  
-백엔드 개발자!
+내 목표는 백엔드 개발자!
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&show&&theme=ambient_gradient)
