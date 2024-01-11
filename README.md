@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&text=CHASANGGON%20)
-# 이름
+[//]: # (이 부분은 주석처럼 보입니다.)
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&theme=radical)
