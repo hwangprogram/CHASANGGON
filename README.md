@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=CHA%20SANG%20GON&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&text=CHA%20SANG%20GON&fontColor=99FFCC)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CHASANGGON&show_icons=true&theme=radical)
