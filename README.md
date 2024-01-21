@@ -14,6 +14,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCHASANGGON&count_bg=%236BF8FF&title_bg=%23FFBAEF&icon=google.svg&icon_color=%23E7E7E7&title=Thank+U%21&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
+🏆Baekjoon
+🔥2024.01.11 첫 문제 solve
+🥉2024.01.16 Bronze 5 달성
+🥈2024.01.21 Silver 5 달성
+
 👨‍🎓Education  
 🔸 2013.02 능인중학교 졸업  
 🔸 2016.02 능인고등학교 졸업  
