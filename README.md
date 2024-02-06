@@ -3,8 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:fbc2eb,100:a6c1ee&text=CHA%20SANG%20GON&fontColor=CC99FF&animation=blinking)
 
  
-1학기가 끝나기 전에 B형을 취득할거야!!!!!
-2학기가 끝나기 전에 은행에 취업할거야!!!!!
+1학기가 끝나기 전에 B형을 취득할거야!!!!!  
+2학기가 끝나기 전에 은행에 취업할거야!!!!!  
 내가 한다면 하는 것이고, 간다면 간다는 거야!🔥🔥🔥
 
 
